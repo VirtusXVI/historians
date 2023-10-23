@@ -9,3 +9,10 @@
 body {
   font-family: 'Inter', sans-serif;
 }
+
+.body-background{
+  background-image: url(./assets/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: calc(100vh - 50px);
+}
